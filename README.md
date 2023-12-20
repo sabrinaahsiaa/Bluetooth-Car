@@ -16,3 +16,8 @@ Collaborated with Bryce Cheung
 * `GPIO` : Initialization for on-board LEDs
 * `PWM` : Initialization for PWM 0
 * `HW_PWM_Car` : Initialization for UART 1 communication between microcontroller and Bluetooth module
+
+# Demo Video
+
+* HC-05 Setup: https://youtu.be/mkhZTgcqdvQ
+* Robot Car: https://youtube.com/shorts/GC8fpiu1KYk?feature=share
