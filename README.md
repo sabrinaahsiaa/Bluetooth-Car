@@ -1,6 +1,7 @@
 # Bluetooth-Car
 
 This repository contains resources related to the Bluetooth Car project. The Bluetooth Car project demonstrates a robot car driven by 2 DC motors that will be controlled through communications with a Bluetooth module.
+
 Collaborated with Bryce Cheung
 
 # Development Tools
